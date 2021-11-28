@@ -17,3 +17,4 @@ We will cover 3 main approaches of sentiment analysis - Lexicon based, Libraries
 **Dataset Link :** https://drive.google.com/file/d/1J6QCMFZS4mFyNQVHdnK2RrLjgYS9xT8L/view?usp=sharing
 
 
+These codes, approach and data is from my book "Practical Natural Language Processing with Python" from Apress publications (https://link.springer.com/book/10.1007/978-1-4842-6246-7, https://www.amazon.in/Practical-Natural-Language-Processing-Python/dp/148426245X)
